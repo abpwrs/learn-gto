@@ -1,0 +1,6 @@
+STAGES:
+ - dev
+ - qa
+ - stage
+ - hot-stage
+ - prod
