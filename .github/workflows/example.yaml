@@ -2,7 +2,7 @@ name: Act on artifact registrations and promotions
 on:
   push:
     tags:
-      - "*"
+      - "**"
 
 jobs:
   act:
