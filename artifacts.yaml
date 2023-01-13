@@ -1,0 +1,8 @@
+awesome-model:
+  custom: "{'foo': 'bar'}"
+  description: This model is very cool
+  labels:
+  - ml
+  - cool
+  path: src/model-a
+  type: model
